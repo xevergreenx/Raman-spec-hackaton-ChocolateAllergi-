@@ -48,3 +48,7 @@
 - `SciPy`, `Joblib` (Signal Processing & ALS Baseline)
 - `NumPy`, `Pandas` (Data Manipulation)
 - `Matplotlib`, `Seaborn` (Biomarker Visualization)
+- ---
+## Team
+* **[Nikolai Pautov](https://github.com/Pautovv)** 
+* **[Miroslav Makarov](https://github.com/xevergreenx)** 
